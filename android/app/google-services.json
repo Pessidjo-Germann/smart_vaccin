@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "150311313760",
+    "project_id": "smart-vaccin",
+    "storage_bucket": "smart-vaccin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150311313760:android:c535484e39e0bd1439fe05",
+        "android_client_info": {
+          "package_name": "georges.com.smartvaccin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBE7NzxANyhIFZ19zwe_RAJVoBE-gwrlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150311313760:android:2a2e2ad807c40b3d39fe05",
+        "android_client_info": {
+          "package_name": "com.vacc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBE7NzxANyhIFZ19zwe_RAJVoBE-gwrlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150311313760:android:dee6c52ec0d2de0d39fe05",
+        "android_client_info": {
+          "package_name": "com.vain.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBE7NzxANyhIFZ19zwe_RAJVoBE-gwrlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
